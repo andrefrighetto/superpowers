@@ -18,6 +18,7 @@
     },
     {
       "name": "everything-claude-code",
+      "alias": "ecc",
       "description": "Battle-tested Claude Code plugin for engineering teams — 38 agents, 156 skills, 72 legacy command shims, production-ready hooks, and selective install workflows evolved through continuous real-world use",
       "version": "1.10.0",
       "source": "https://github.com/affaan-m/everything-claude-code",
